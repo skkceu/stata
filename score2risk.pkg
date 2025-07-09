@@ -1,0 +1,32 @@
+d Systematic COronary Risk Evaluation (SCORE2) CVD risk score
+d A program that calculates 10-year risk of cardiovascular disease (CVD) according 
+d to the new SCORE2 algorithm as described in the published methods paper 
+d (SCORE2 working group and European Society of Cardiology's 
+d Cardiovascular Risk Collaboration* European Heart Journal 2021(May)Epub).
+d
+d Distribution-Date: 21May2021
+d
+d Dr Stephen Kaptoge
+d Dr Lisa Pennells
+d Cardiovascular Epidemiology Unit
+d Dept of Public Health and Primary Care
+d University of Cambridge
+d Strangeways Research Laboratory
+d Worts Causeway
+d Cambridge CB1 8RN
+d UK
+d
+d Steven Hageman
+d Dept of Vascular Medicine
+d University Medical Center Utrecht
+d Utrecht University
+d Utrecht
+d The Netherlands
+f score2risk.ado
+f score2risk.hlp
+f score2oprisk.ado
+f score2egfr.ado
+f score2dmrisk.ado
+f score2regs.ado
+f score1risk.ado
+

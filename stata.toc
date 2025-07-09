@@ -1,9 +1,16 @@
 v 3
-d Stata programs by Dr SK
-
-d Description
-
+d Stata programs by Dr Stephen Kaptoge
+d Cardiovascular Epidemiology Unit
+d Dept of Public Health and Primary Care
+d University of Cambridge
+d Strangeways Research Laboratory
+d Worts Causeway
+d Cambridge CB1 8RN
 d
-
+d Below are some stata programs I have written related to published research from large-scale individual
+d participant data (IPD) meta-analysis in the Emerging Risk Factors Collaboration (ERFC) on cardiovascular
+d disease aetiology and risk prediction. 
+d
+p whocvdrisk Calculates WHO 10-year CVD risk with recalibration to relevant country or GBD region
 p score2risk Calculates SCORE2 10-year CVD risk with recalibration to relevant European risk region
 

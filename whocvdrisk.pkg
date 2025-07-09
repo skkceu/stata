@@ -1,0 +1,21 @@
+d World Health Organization (WHO) CVD risk score
+d A program that calculates the World Health Organization (WHO) 10-year risk of 
+d cardiovascular disease (CVD) as described in the published methods paper 
+d (The WHO CVD Risk Chart Working Group* Lancet Glob Health 2019(7)e1332-e1345).
+d
+d Distribution-Date: 02Sep2020
+d
+d Dr Stephen Kaptoge
+d Dr Lisa Pennells
+d Cardiovascular Epidemiology Unit
+d Dept of Public Health and Primary Care
+d University of Cambridge
+d Strangeways Research Laboratory
+d Worts Causeway
+d Cambridge CB1 8RN
+d UK
+f whocvdrisk.ado
+f whocvdrisk.hlp
+F whocvdrisk_erfc_score_v03.ado
+F whocvdrisk_t10_calparms_gbd_sens0.dta
+
