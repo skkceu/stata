@@ -1,1 +1,9 @@
+v 3
+d Stata programs by Dr SK
+
+d Description
+
+d
+
+p score2risk Calculates SCORE2 10-year CVD risk with recalibration to relevant European risk region
 
